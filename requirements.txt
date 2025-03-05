@@ -1,5 +1,5 @@
-protobuf==6.30.0
-python-dotenv==1.0.1
-Requests==2.32.3
 streamlit==1.43.0
-google-generativeai
+requests==2.32.3
+python-dotenv==1.0.1
+google-generativeai==0.3.2
+protobuf==6.30.0

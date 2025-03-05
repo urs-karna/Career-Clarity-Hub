@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-import json
 from dotenv import load_dotenv
 import os
 import google.generativeai as genai
@@ -196,6 +195,3 @@ if submit6:
 
 
 
-#         streamlit 
-# google-generativeai
-# python-dotenv
